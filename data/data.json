@@ -1,0 +1,341 @@
+{
+  "homedata": [
+    {
+      "id": 1,
+      "title": "artificial intillegence.",
+      "information": "Computer science defines AI research as the study of 'intelligent agents': any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. A more elaborate definition characterizes AI as “a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.”"
+    }
+  ],
+  "aboutdata": [
+    {
+      "id": 1,
+      "title": "application",
+      "discription": "Just the mention of AI and the brain invokes pictures of Terminator machines destroying the world.Thankfully, the present picture is significantly more positive.",
+      "optional": "So, let’s explore how AI is helping our planet   and at last benefiting humankind. In this blog on Artificial Intelligence applications, I’ll be discussing how AI has impacted various fields like marketing, finance, banking and so on.",
+      "links": "https://www.edureka.co/blog/artificial-intelligence-applications/",
+      "image": "images/application.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Marketing",
+      "discription": "Marketing is a way to sugar coat your products to attract more customers. We, humans, are pretty good at sugar coating",
+      "optional": ", but what if an algorithm or a bot is built solely for the purpose of marketing a brand or a company? It would do a pretty awesome job! the early 2000s, if we searched an online store to find a product without knowing it’s exact name, it would become a nightmare to find the product.",
+      "links": "https://www.edureka.co/blog/artificial-intelligence-applications/#AI%20in%20Marketing",
+      "image": "images/marketing.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "banking",
+      "discription": "AI in banking is growing faster than you thought! A lot of banks have already adopted AI-based systems to provide customer support, detect anomalies and credit card frauds.",
+      "optional": "An example of this is HDFC Bank. Since its launch, Eva has addressed over 3 million customer queries, interacted with over half a million unique users, and held over a million conversations.",
+      "links": "https://www.edureka.co/blog/artificial-intelligence-applications/#AI%20in%20Banking",
+      "image": "images/banking.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Health Care",
+      "discription": "When it comes to saving our lives, a lot of organizations and medical care centers are relying on AI.",
+      "optional": "There are many examples of how AI in healthcare has helped patients all over the world. An organization called Cambio Health Care developed a clinical decision support system for stroke prevention that can give the physician a warning when there’s a patient at risk of having a heart stroke.",
+      "links": "https://www.edureka.co/blog/artificial-intelligence-applications/#AI%20in%20HealthCare",
+      "image": "images/helthcare.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Gaming",
+      "discription": "Over the past few years, Artificial Intelligence has become an integral part of the gaming industry.",
+      "optional": "Shortly after the victory, DeepMind created an advanced version of AlphaGo called AlphaGo Zero which defeated the predecessor in an AI-AI face off. Unlike the original AlphaGo, which DeepMind trained over time by using a large amount of data and supervision, the advanced system, AlphaGo Zero taught itself to master the game.",
+      "links": "https://www.edureka.co/blog/artificial-intelligence-applications/#AI%20In%20Gaming",
+      "image": "images/gaming.jpg"
+    }
+  ],
+  "homeintro": [
+    {
+      "id": 1,
+      "title": "artificial intelligence.",
+      "discription": "Computer science defines AI research as the study of 'intelligent agents': any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals. A more elaborate definition characterizes AI as “a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.”",
+      "links": "https://www.edureka.co/blog/artificial-intelligence-applications/#AI%20In%20Gaming",
+      "image": "images/gaming.jpg"
+    }
+  ],
+  "learndata": [
+    {
+      "id": 1,
+      "title": "artificial intelligence",
+      "discription": "Computer science defines AI research as the study of 'intelligent agents': any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.",
+      "optional": "A more elaborate definition characterizes AI as “a system’s ability to correctl interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.”",
+      "links": "https://en.wikipedia.org/wiki/Robotics",
+      "image": "images/background6.jpg"
+    },
+    {
+      "id": 2,
+      "title": "mathmetics",
+      "discription": "A person working in the field of AI who doesn’t know math is like a politician who doesn’t know how to persuade.",
+      "optional": "Both have an inescapable area to work upon!\n Mathematics is at the core of AI an Machine Learning because it provides means of implementing how their goals can be reached.",
+      "links": "https://www.quora.com/Why-mathematics-is-important-for1-artificial-intelligence-and-machine-learning",
+      "image": "images/math.jpg"
+    },
+    {
+      "id": 3,
+      "title": "linear algebra",
+      "discription": "It is not a secret anymore, Linear algebra is something AI experts can’t live without. ",
+      "optional": "You will never evolve from amateur to good specialist without mastering this field of applied mathematics. But, certainly, this path of learning is far away from being simple, math and especially linear algebra is often associated with something boring, complicated and meaningless. It’s true, however, you can go the other path.",
+      "links": "https://towardsdatascience.com/mathematics-for-ai-linear-algebra-and-how-to-understand-it-better-63b430999069",
+      "image": "images/linearalgebra.jpg"
+    },
+    {
+      "id": 4,
+      "title": "calculas",
+      "discription": "Calculus is a deductive science and a branch of pure Mathematics, at the same time it has strong roots in physical problems and it derives much of its power and beauty from the variety of its applications. ",
+      "optional": "It is more than a technical tool — it is a collection of fascinating and exciting ideas that have interested thinking humans for centuries.",
+      "links": "https://medium.com/explore-artificial-intelligence/the-birth-of-calculus-8e14e01f4550",
+      "image": "images/calculas.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Probability & Statistics",
+      "discription": "Machine Learning is an interdisciplinary field that uses statistics, probability, algorithms to learn from data and provide insights which can be used to build intelligent applications.",
+      "optional": "In this article, we will discuss some of the key concepts widely used in machine learning. Probability and statistics are related areas of mathematics which concern themselves with analyzing the relative frequency of events.",
+      "links": "https://towardsdatascience.com/machine-learning-probability-statistics-f830f8c09326",
+      "image": "images/probability.jpg"
+    }
+  ],
+  "commentpost": [
+    {
+      "name": "uttam",
+      "email": "parajuliuttu1122@gmail.com",
+      "feedback": "THIS IS FIRST FEEDBACK.",
+      "id": 1
+    },
+    {
+      "name": "lekhnath",
+      "email": "lekhnathparajuli@gmail.com",
+      "feedback": "this is 2nd comment",
+      "id": 2
+    }
+  ],
+  "logininfos": [
+    {
+      "state": true,
+      "logstate": "logged in",
+      "name": "uttam parajuli",
+      "email": "parajuli@gmai.com",
+      "password": "parajuli123",
+      "id": 1
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1,
+      "name": "binary",
+      "image": "galery/ai1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Artillicial inteligence",
+      "image": "galery/ai2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "robots",
+      "image": "galery/ai3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "graphics",
+      "image": "galery/ai4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "jarvish",
+      "image": "galery/ai5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "brain",
+      "image": "galery/ai6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "iron man",
+      "image": "galery/ai8.jpg"
+    },
+    {
+      "id": 8,
+      "name": "technology",
+      "image": "galery/ai8.png"
+    },
+    {
+      "id": 9,
+      "name": "deep learning",
+      "image": "galery/ai9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "machine learning",
+      "image": "galery/artificial.jpg"
+    },
+    {
+      "id": 11,
+      "name": "space",
+      "image": "galery/background3.jpg"
+    },
+    {
+      "id": 12,
+      "name": "mountain",
+      "image": "galery/background4.jpg"
+    },
+    {
+      "id": 13,
+      "name": "brain",
+      "image": "galery/background6.jpg"
+    },
+    {
+      "id": 14,
+      "name": "banking",
+      "image": "galery/banking.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "calculas",
+      "image": "galery/calculas.jpg"
+    },
+    {
+      "id": 16,
+      "name": "space",
+      "image": "galery/devwal.jpg"
+    },
+    {
+      "id": 17,
+      "name": "gamer",
+      "image": "galery/gamer.jpg"
+    },
+    {
+      "id": 18,
+      "name": "game",
+      "image": "galery/gaming.jpg"
+    },
+    {
+      "id": 19,
+      "name": "helth care",
+      "image": "galery/helthcare.jpg"
+    },
+    {
+      "id": 20,
+      "name": "linearalgebra",
+      "image": "galery/linearalgebra.jpg"
+    },
+    {
+      "id": 21,
+      "name": " marketing",
+      "image": "galery/marketing.jpeg"
+    },
+    {
+      "id": 22,
+      "name": "math",
+      "image": "galery/math.jpg"
+    },
+    {
+      "id": 23,
+      "name": "probability",
+      "image": "galery/probability.jpg"
+    },
+    {
+      "id": 24,
+      "name": "robot",
+      "image": "galery/background8.jpg"
+    }
+  ],
+  "eventhead": [
+    {
+      "id": 1,
+      "title": "The Best AI Events to attend in 2019",
+      "discription": "We often think about artificial intelligence as something new in technology. But the truth is that ancient civilizations already theorized and imagined objects that work by themselves. But that’s all it was, imagination. Today, thanks to technological advances, we can put these theories into practice.\n\nWe’ve been talking about artificial intelligence since 1956, growing very slowly and without much success. However, since 1990 it experienced a boom, the public began to internalize and become familiar with the term and it is growing faster than ever.\n\nAs I say, it is undeniable that Artificial Intelligence is growing at a very fast rate. As new developments are made, wonderful conferences are organized to educate the world on its multiple uses and advantages. In this post we are listing the 15 most important artificial intelligence events of the next year 2019 so you will be up to date and don’t miss them!"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "AI Masters Conference",
+      "time": "January 24 – 25 in Berlin, Germany\n",
+      "discription": "An AI conference for marketing and e-commerce key decision-makers.\n",
+      "information": "Newly launched in 2018, the AI Masters Conference is specifically designed to educate business leaders on the numerous developments and uses of AI technology. If you happen to be in a position of leadership at your company, this event will ensure you manage both your people and resources properly as technological developments continue to accelerate."
+    },
+    {
+      "id": 2,
+      "title": "Applied Machine Learning Days (AMLD)\n",
+      "time": "January 26 – 29 in Ecublens, Switzerland\n",
+      "discription": "Four days of expert-taught tutorials and workshops regarding AI and machine learning.\n",
+      "information": "Sponsored by Microsoft, IBM, and Logitech, AMLD brings together some of the brightest minds in AI technology from many diverse backgrounds. Confirmed speakers for 2019 include a grand chess master, a New York Times writer, university professors, and professionals from Google, Facebook and Microsoft. But attendees won’t just be listening to experts, they’ll also have the opportunity to get hands-on during specific workshops and trainings, and a conference-wide hackathon. AMLD is one of the largest AI events in Europe and definitely one you should consider attending."
+    },
+    {
+      "id": 3,
+      "title": "Touching Innovations 2019\n",
+      "time": "Cost: €29.99 – €236.81\n",
+      "discription": "Summit/Networking/Pitching\n",
+      "information": "Apart from exponential networking during the entire event, prospective founders and existing startups will get the opportunity to pitch their vision in 10-minutes pitches (7 mins. pitch + Q&A) to win business angels, venture capital, co-founders, other partners, as well as corporates and customers. In a wide range of presentations, international experts will cover various topics and take you through the latest trends and research in future tech, e.g. about IoT sensors and actuators, smart textiles, wearable technology, connected cars, smart factories, artificial intelligence & machine learning, augmented, mixed & virtual reality, esports, as well as digital marketing, cryptopayment models, DLT/blockchain, patents & copyrights, lab & venture building, valuation methods for tech startups, growth & exit strategies, M&As, and many other topics"
+    },
+    {
+      "id": 4,
+      "title": "Mobile World Congress",
+      "time": "February 25– 28 in Barcelona, Spain\n",
+      "discription": "Congress\n",
+      "information": "The world’s largest gathering for the mobile industry will also include VR/AR, AI, drone, Internet of Things (IoT), and Robotics.  2018 was another successful year with over 107,000 attendees and 2,400 exhibitors. Expect more of the same in 2019."
+    },
+    {
+      "id": 5,
+      "title": "AI Net Conference",
+      "time": "April 9 – 11 in Paris, France\n",
+      "discription": "An AI and machine learning conference for those in the telecommunications industry.\n",
+      "information": "Presented by Upperside Conferences, a leader in Parisian technology events, AI Net is an AI and machine learning conference geared towards the telecommunications community. Attendees will gain insights and use case details on data collection, statistical analysis, security issues, and more. And since one should never be uncomfortable in the “city of love”, event planners have arranged for attendees to stay in the luxurious Marriott Paris Rive Gauche Hotel."
+    },
+    {
+      "id": 6,
+      "title": "AI & Big Data Expo",
+      "time": "April 25 – 26 in Olympia, London\n",
+      "discription": "A showcase of cutting edge technology and education on its implementation.\n",
+      "information": "The AI & Big Data Expo Global, the leading Artificial Intelligence & Big Data Conference & Exhibition event will take place on 25-26th April at the Olympia London. It is a showcase of next generation technologies and strategies from the world of Artificial Intelligence & Big Data, an opportunity to explore and discover the practical and successful implementation of AI & Big Data in driving forward your business in 2019 and beyond.\n4 co-located events. 24 conference tracks. 12,000+ attendees. 500+ speakers. 300+ exhibitors."
+    },
+    {
+      "id": 7,
+      "title": "Rise of AI Conference",
+      "time": "May 16 in Berlin, Germany\n",
+      "discription": "Explore and discuss the impact of the 21st century’s “most powerful technology”.\n",
+      "information": "Rise of AI is one of the most influential AI conferences in all of Europe. For the last five years they’ve educated event attendees on what artificial intelligence really is, how it can be applied to everyday scenarios, and what their vision for the future is in regards to AI. Now, you can join 60+ expert speakers and over 800 event-goers and experience the rise of AI first hand."
+    },
+    {
+      "id": 8,
+      "title": "CogX 2019",
+      "time": "June 8 – 12 in London, United Kingdom\n",
+      "discription": "A popular conference in Europe with the aim to educate and inspire the AI community.\n",
+      "information": "CogX is a leader in the AI event space and has built a strong event brand. Last year’s conference saw 6,500 attendees learn from over 350 presenters. Topics discussed include: the changing attitude towards AI, human-centric computing, and AI’s impact on industries as diverse as music and banking. 2019 promises to be even better. Confirmed speakers include leading experts, successful CEOs, and noted academics. CogX also offers flexible ticketing options, allowing attendees to purchase full event passes or expo-only tickets allowing you to witness over 70 tech companies share their newest developments."
+    },
+    {
+      "id": 9,
+      "title": "The AI Summit",
+      "time": "11 – 13 in Kensington Palace and ExCel London\n",
+      "discription": "SOLD OUT  (Waiting List)\n",
+      "information": "The AI Summit is the world’s first and largest conference & exhibition to look at the practical implications of AI for enterprise organizations, the actual solutions that are transforming business productivity."
+    },
+    {
+      "id": 10,
+      "title": "The AI Conference & Exhibition",
+      "time": "June 27-28 at the RAI, Amsterdam\n",
+      "discription": "",
+      "information": "The AI & Big Data Expo Europe, the leading Artificial Intelligence & Big Data Conference & Exhibition event will take place on 19-20th June at the RAI, Amsterdam. It is a showcase of next generation technologies and strategies from the world of Artificial Intelligence & Big Data, an opportunity to explore and discover the practical and successful implementation of AI & Big Data in driving forward your business in 2019 and beyond."
+    },
+    {
+      "id": 11,
+      "title": "Intelligent Systems Conference (IntelliSys)",
+      "time": "September 5 – 6 in London, United Kingdom\n",
+      "discription": "Gather with other attendees from 55 different countries to network and learn innovative approaches to tough problems.\n",
+      "information": "The 2019 version of IntelliSys will focus on how AI can be applied to real-world situations — a growing point of interest in the AI community. Event-goers will be able to choose from one of four conference tracks: Artificial Intelligence with studies in deep learning, biometrics and data mining; Machine Vision covering topics like pattern recognition, signal processing and medical diagnosis; Robotics teaching attendees about humanoid, assistive, and mobile robots; and Ambient Intelligence which focuses on smart cities, IoT, and affective computing. Join AI professionals and enthusiasts from around the world to learn about these revolutionary concepts."
+    },
+    {
+      "id": 12,
+      "title": "World Summit AI",
+      "time": "October 9 – 10 in Gashouder, Amsterdam\n",
+      "discription": "This event’s mission is to address the most pressing AI challenges and set the global AI agenda.\n",
+      "information": "When it comes to marketing events in the AI space, World Summit AI deserves a lot of credit. They’ve grown their conference to feature over 6000 annual attendees from 161 countries. Professionals from industry titans like Apple, Microsoft, and Dell are regulars. World renowned artists play their after parties. Depending on which conference track you choose, you’ll have the opportunity to learn from AI experts at NASA, Alibaba, Toyota and more. You can also join in on the startup competition or talent showcase, network with other AI professionals, or peruse the exhibition space. This really is a one of a kind, can’t-miss event for 2019."
+    }
+  ]
+}

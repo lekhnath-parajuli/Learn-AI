@@ -1,0 +1,75 @@
+{
+  "aboutdata": [
+    {
+      "id": 1,
+      "title": "application",
+      "discription": "Just the mention of AI and the brain invokes pictures of Terminator machines destroying the world.Thankfully, the present picture is significantly more positive.",
+      "optional": "So, let’s explore how AI is helping our planet   and at last benefiting humankind. In this blog on Artificial Intelligence applications, I’ll be discussing how AI has impacted various fields like marketing, finance, banking and so on."
+    },
+    {
+      "id": 2,
+      "title": "Marketing",
+      "discription": "Marketing is a way to sugar coat your products to attract more customers. We, humans, are pretty good at sugar coating",
+      "optional": ", but what if an algorithm or a bot is built solely for the purpose of marketing a brand or a company? It would do a pretty awesome job! the early 2000s, if we searched an online store to find a product without knowing it’s exact name, it would become a nightmare to find the product."
+    },
+    {
+      "id": 3,
+      "title": "banking",
+      "discription": "AI in banking is growing faster than you thought! A lot of banks have already adopted AI-based systems to provide customer support, detect anomalies and credit card frauds.",
+      "optional": "An example of this is HDFC Bank. Since its launch, Eva has addressed over 3 million customer queries, interacted with over half a million unique users, and held over a million conversations."
+    },
+    {
+      "id": 4,
+      "title": "Health Care",
+      "discription": "When it comes to saving our lives, a lot of organizations and medical care centers are relying on AI.",
+      "optional": "There are many examples of how AI in healthcare has helped patients all over the world. An organization called Cambio Health Care developed a clinical decision support system for stroke prevention that can give the physician a warning when there’s a patient at risk of having a heart stroke."
+    },
+    {
+      "id": 5,
+      "title": "Gaming",
+      "discription": "Over the past few years, Artificial Intelligence has become an integral part of the gaming industry.",
+      "optional": "Shortly after the victory, DeepMind created an advanced version of AlphaGo called AlphaGo Zero which defeated the predecessor in an AI-AI face off. Unlike the original AlphaGo, which DeepMind trained over time by using a large amount of data and supervision, the advanced system, AlphaGo Zero taught itself to master the game."
+    },
+  ],
+
+      "learndata": [
+        {
+          "id": 1,
+          "title": "artificial intelligence",
+          "discription": "Computer science defines AI research as the study of 'intelligent agents': any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.",
+          "optional": "A more elaborate definition characterizes AI as “a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.”"
+        },
+        {
+          "id": 2,
+          "title": "mathmetics",
+          "discription": "A person working in the field of AI who doesn’t know math is like a politician who doesn’t know how to persuade.",
+          "optional": "Both have an inescapable area to work upon!
+          Mathematics is at the core of AI and Machine Learning because it provides means of implementing how their goals can be reached."
+        },
+        {
+          "id": 3,
+          "title": "linear algebra",
+          "discription": "It is not a secret anymore, Linear algebra is something AI experts can’t live without. ",
+          "optional": "You will never evolve from amateur to good specialist without mastering this field of applied mathematics. But, certainly, this path of learning is far away from being simple, math and especially linear algebra is often associated with something boring, complicated and meaningless. It’s true, however, you can go the other path."
+        },
+        {
+          "id": 4,
+          "title": "artificial intelligence",
+          "discription": "Computer science defines AI research as the study of 'intelligent agents': any device that perceives its environment and takes actions that maximize its chance of successfully achieving its goals.",
+          "optional": "A more elaborate definition characterizes AI as “a system’s ability to correctly interpret external data, to learn from such data, and to use those learnings to achieve specific goals and tasks through flexible adaptation.”"
+        },
+        {
+          "id": 5,
+          "title": "calculas",
+          "discription": "Calculus is a deductive science and a branch of pure Mathematics, at the same time it has strong roots in physical problems and it derives much of its power and beauty from the variety of its applications. ",
+          "optional": "It is more than a technical tool — it is a collection of fascinating and exciting ideas that have interested thinking humans for centuries."
+        },
+        {
+          "id": 6,
+          "title": "Probability & Statistics",
+          "discription": "Machine Learning is an interdisciplinary field that uses statistics, probability, algorithms to learn from data and provide insights which can be used to build intelligent applications.  ",
+          "optional": "In this article, we will discuss some of the key concepts widely used in machine learning.
+          Probability and statistics are related areas of mathematics which concern themselves with analyzing the relative frequency of events."
+        }
+      ]
+}
